@@ -1,0 +1,7 @@
+https://registration-pal-chris-anup.cfapps.io/users/{USER_ID}
+https://registration-pal-chris-anup.cfapps.io/accounts?ownerId={USER_ID}
+https://registration-pal-chris-anup.cfapps.io/projects?accountId={ACCOUNT_ID}
+https://allocations-pal-chris-anup.cfapps.io/allocations?projectId={PROJECT_ID}
+https://backlog-pal-chris-anup.cfapps.io/stories?projectId={PROJECT_ID}
+https://timesheets-pal-chris-anup.cfapps.io/time-entries?userId={USER_ID}
+
